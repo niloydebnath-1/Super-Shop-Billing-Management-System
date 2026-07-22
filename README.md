@@ -1,1 +1,1 @@
-# Super-Shop-Billing-Management-System
+The Super Shop Billing Management System is a console-based application developed in C++ that automates billing operations. It manages product details, calculates totals, applies discounts, and generates bills efficiently for customer purchases.
